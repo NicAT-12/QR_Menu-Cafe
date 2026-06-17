@@ -56,14 +56,17 @@ El QR permite acceder directamente al menú desde cualquier dispositivo móvil.
 
 ## Estructura del proyecto
 
+```txt
 /src
   /components
   /pages
   /assets
   /data
+  /routes
+  /types
   App.tsx
   main.tsx
-
+```
 ---
 
 ## ⚙️ Instalación y ejecución
