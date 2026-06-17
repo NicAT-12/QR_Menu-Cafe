@@ -50,7 +50,7 @@ El QR permite acceder directamente al menú desde cualquier dispositivo móvil.
 
 ### Imagen del QR
 
-![QR Menu Café](public/QR/QR-Web-Cafe-menu.png)
+![QR Menu Café](frontend/public/QR/QR-Web-Cafe-menu.png)
 
 ---
 
